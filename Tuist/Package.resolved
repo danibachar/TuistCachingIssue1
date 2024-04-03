@@ -1,0 +1,15 @@
+{
+  "originHash" : "f178e19f3061be0b151e2e0771c0e5b8f34b8ecdee20470c804adc3358108738",
+  "pins" : [
+    {
+      "identity" : "cuckoo",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Brightify/Cuckoo.git",
+      "state" : {
+        "revision" : "0cfbb729d0aced6494c19c58c0c31ea16d1cbf66",
+        "version" : "1.10.4"
+      }
+    }
+  ],
+  "version" : 3
+}
